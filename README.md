@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/in-Nadi%20Duno-blue)](https://www.linkedin.com/in/nadiduno/)
 <br />
 <br />
-Alguns link de arquivos de Colab com códigos em python, para compartilhar com a comunidade migrante no Brasil.git
+Alguns link de arquivos de Colab com códigos em python, para compartilhar com a comunidade migrante 💛💙❤️ :ven:
 <br />
 <div align="center">
   <img 
@@ -34,7 +34,10 @@ for fruit in fruits:
     break
   print(fruit)
 ```
-#LINKS:
+📎LINKS
 https://colab.research.google.com/drive/1gjXVkFbw2aeeiw-ZiNqH2cC5XGyIcRaN
+
+🎦 VIDEO
+https://www.youtube.com/watch?v=EBaUEAxuC2o
 
 Prácticas do modulo de Python 💻 [Toti](https://totidiversidade.com.br/) © 2022
