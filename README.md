@@ -14,7 +14,7 @@ Alguns link de arquivos de Colab com códigos em python, para compartilhar com a
   <br />
 </div>
 
-![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
+![Language](https://img.shields.io/badge/%3C%2F%3E-language-lightgrey)<br/>
 [Python](https://www.python.org/) 
 
 
@@ -37,4 +37,4 @@ for fruit in fruits:
 #LINKS:
 https://colab.research.google.com/drive/1gjXVkFbw2aeeiw-ZiNqH2cC5XGyIcRaN
 
-Prácticas do modulo de Python :violet_heart: [Toti](https://totidiversidade.com.br/) © 2022
+Prácticas do modulo de Python 💻 [Toti](https://totidiversidade.com.br/) © 2022
