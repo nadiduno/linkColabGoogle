@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/in-Nadi%20Duno-blue)](https://www.linkedin.com/in/nadiduno/)
 <br />
 <br />
-#appMoney: Uma aplicação que permite colocar as entradas e saidas de seus gastos.
+##Links
+Alguns link de arquivos de Colab com códigos em python, para compartilhar com a comunidade migrante no Brasil.git
 <br />
 <div align="center">
   <img 
@@ -15,14 +16,23 @@
 </div>
 
 ![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
-[ReactJS](https://reactjs.org/) | [Node.js](https://nodejs.org/en/download/) | [Yarn](https://yarnpkg.com/)
+[Python](https://www.python.org/) 
 
 
-```bash
-# Install the dependencies
-$ yarn
+```python
+#Diferença entre usar CONTINUE E BREAK no Loop
 
-# Run the developer
-$ yarn dev
+#Declarando e definiedno as frutas em um array
+fruits = ['Banana','Apple','Bad','Pineapple','Strawberry','Grape']
+#continue --> Pula no ciclo (loop) e continua 
+for fruit in fruits:
+  if fruit == 'Bad':
+    continue
+  print(fruit)
+#break --> Rompe e sai do ciclo (loop)
+for fruit in fruits:
+  if fruit == 'Bad':
+    break
+  print(fruit)
 ```
-Prácticas do modulo de ReactJS da 🚀 [Rocketseat](https://www.rocketseat.com.br/) © 2022
+Prácticas do modulo de Python :heartviolet: [Toti](https://totidiversidade.com.br/) © 2022
