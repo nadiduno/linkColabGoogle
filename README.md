@@ -35,6 +35,10 @@ for fruit in fruits:
   print(fruit)
 ```
 📎LINKS
+#Exemplos para principiantes
+https://colab.research.google.com/gist/nadiduno/57fe602846dc7c75c06784121f190c2a/python-aulastoti.ipynb#scrollTo=G2WFW1isAkPs
+
+#Usando CONTINUE e BREAK
 https://colab.research.google.com/drive/1gjXVkFbw2aeeiw-ZiNqH2cC5XGyIcRaN
 
 🎦 VIDEO
