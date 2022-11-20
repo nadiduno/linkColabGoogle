@@ -41,6 +41,9 @@ https://colab.research.google.com/gist/nadiduno/57fe602846dc7c75c06784121f190c2a
 #Variaves primitivas e compostas em python
 https://colab.research.google.com/drive/1PIfkvuO42hCJ0a1jKdTFyeW_qJIgBAz1
 
+#Gabaritos em PYTHON
+https://colab.research.google.com/gist/nadiduno/c7513c4ab9c14dee9b43d79f8b06ec8e/gabaritodesafio.ipynb#scrollTo=trBNvubLh8oD
+
 #Usando CONTINUE e BREAK
 https://colab.research.google.com/drive/1gjXVkFbw2aeeiw-ZiNqH2cC5XGyIcRaN
 
