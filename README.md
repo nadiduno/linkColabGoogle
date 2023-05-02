@@ -50,4 +50,11 @@ https://colab.research.google.com/drive/1gjXVkFbw2aeeiw-ZiNqH2cC5XGyIcRaN
 🎦 VIDEO
 https://www.youtube.com/watch?v=EBaUEAxuC2o
 
-Prácticas do modulo de Python 💻 [Toti](https://totidiversidade.com.br/) © 2022
+#Teste de Python
+https://github.com/nadiduno/linkColabGoogle/blob/main/testepythonnadi.ipynb
+
+
+
+Prácticas do modulo de Python 💻 [Toti](https://totidiversidade.com.br/) 
+
+Feito com <💜 /> DevRel [Nadi Duno](https://www.linkedin.com/in/nadiduno/) | [Embaixadora da Toti Diverdidade] (https://totidiversidade.com.br/) © 2022
